@@ -18,4 +18,4 @@ if c == "S":
     print(f"{soma:.1f}")
 
 elif c == "M":
-    print(f"{media:.1f}")
+    print(f"{soma / cont:.1f}")

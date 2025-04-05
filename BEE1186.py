@@ -1,7 +1,6 @@
 c = input().upper()
 matriz = []
 
-
 for _ in range(12 * 12):
     matriz.append(float(input()))
 

@@ -14,19 +14,3 @@ while True:
     for line in matriz:
         print(" ". join(f'{num:3}' for num in line))
     print()
-
-
-# while True:
-#     n = int(input())
-
-#     if n == 0:
-#         break
-    
-#     matriz = [[0] *n for _ in range(n)]
-
-#     for b in range(n):
-#         for i in range(n):
-#             valor = abs(b - i) + 1
-#             print(f"{valor:3}", end="")
-#     print()
-# print()

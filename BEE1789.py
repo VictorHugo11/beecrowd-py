@@ -1,5 +1,3 @@
-import sys
-
 while True:
     try:
         n = int(input())

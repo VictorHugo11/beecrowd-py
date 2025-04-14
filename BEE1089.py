@@ -19,6 +19,3 @@ while True:
             picos += 1
 
     print(picos)
-
-        
-        
